@@ -1,3 +1,4 @@
+![logo](https://github.com/anchal-baghel/anchal-baghel/blob/main/logoimage.jpg)
 <h1 align="center">Hi 👋, I'm Anchal Baghel</h1>
 <h3 align="center">Full-Stack Developer | Java | Spring Boot | React | APIs</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/7e/b2/49/7eb249f2fd2e58e9ad6dd60ef892971b.gif">
