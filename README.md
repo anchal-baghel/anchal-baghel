@@ -12,8 +12,10 @@
 - 👯 I’m looking to collaborate on **Java Full-Stack / REST API based projects**
 
 - 🤝 I’m looking for help with **Scalable backend architecture & system design**
-
-- 👨‍💻 All of my projects are available at [https://github.com/anchal-baghel](https://github.com/anchal-baghel)
+  
+- 👨‍💻 Explore my work & live demos at [anchalbaghel.netlify.app](https://anchalbaghel.netlify.app)
+  
+- 🚀 My source code is available at [github.com/anchal-baghel](https://github.com/anchal-baghel)
 
 - 📝 I regularly write articles on [Currently exploring — coming soon](Currently exploring — coming soon)
 
