@@ -23,7 +23,7 @@
 ### 📂 Featured Full-Stack Project: RD Management System
 This project demonstrates my ability to build a complete end-to-end application:
 
-* **[React Frontend Dashboard](https://github.com/anchal-baghel/RdSystem-Frontend)**: A modern, responsive UI built with **React** for managing user accounts, passbooks, and real-time calculations.
+* **[React Frontend Dashboard](https://github.com/anchal-baghel/RDSystem)**: A modern, responsive UI built with **React** for managing user accounts, passbooks, and real-time calculations.
 * **[Spring Boot Backend API](https://github.com/anchal-baghel/RdSystem-Backend)**: A robust REST API featuring **automated fine calculation logic**, JPA persistence, and Swagger documentation.
 
 ---
